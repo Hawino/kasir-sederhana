@@ -327,8 +327,3 @@ class Transaction():
 
 start = Transaction()
 start.menu()
-
-
-
-Transaction()
-
