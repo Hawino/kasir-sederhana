@@ -1,5 +1,5 @@
 # Self Service Cashier
-Pembuatan Self Service Cashier sederhana yang menerapkan Object Oriented Programming di Python
+Pembuatan Self Service Cashier sederhana yang menerapkan Object Oriented Programming.
 
 # Tujuan Pengerjaan Project
 1. Membuat Self Service Cashier sederhana yang dapat Melakukan tugas:
@@ -11,13 +11,14 @@ Pembuatan Self Service Cashier sederhana yang menerapkan Object Oriented Program
 3. Mengaplikasikan penulisan kode yang bersih (clean code), mengacu pada PEP 8.
 
 # Cara Menggunakan Program
-1. Main.py merupakan program Self Service Cashier
-2. Download file "Main.py" ke dalam satu direktori lokal.
-3. Anda cukup menjalankan module python "Main.py" dan program akan otomatis mulai.
-4. Berikut adalah tampilan Menu program Self Service Cashier.
+1. Code dibuat menggunakan Google Colaboratory, perlu penyesuaian code Import Module (Tabulate) jika menggunakan tools lain.
+2. Main.py merupakan program Self Service Cashier
+3. Download file "Main.py" ke dalam satu direktori lokal.
+4. Anda cukup menjalankan module python "Main.py" dan program akan otomatis mulai.
+5. Berikut adalah tampilan Menu program Self Service Cashier.<br>
 ![image](https://github.com/Hawino/kasir-sederhana/assets/160495569/cce8cf56-54eb-48b0-8644-090ac798d13f)
-5. Untuk menonaktifkan program, Masukan Nomor Menu: 9
-6. Jika ingin menggunakan program kembali dapat gunakan format ini: <br>
+6. Untuk menonaktifkan program, Masukan Nomor Menu: 9
+7. Jika ingin menggunakan program kembali dapat gunakan format ini: <br>
    nama_variable = Transaction() <br>
    nama_variable.menu()
 
